@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯 I build women clothing clone website. **Anthropologie**
+- 👯 I build women clothing clone website. **Anthropologie**[Anthropologie](https://anthropologie1.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://the-awesome-venkycoder422-site.netlify.app/](https://the-awesome-venkycoder422-site.netlify.app/)
 
