@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://thoughts-venky.blogspot.com/](https://thoughts-venky.blogspot.com/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript and React.**
+- 💬 Ask me about **HTML, CSS, JavaScript , React and Redux.**
 
 - 📫 How to reach me **dommaravenkatesulu22@gmail.com**
 
