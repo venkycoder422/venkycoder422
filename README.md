@@ -5,12 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkycoder422" alt="venkycoder422" /></a> </p>
 
-- 🔭 I build clothing clone website. [Bewakoof](https://venkycoder422.github.io/bewakoof.github.io/)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👯 I build women clothing clone website. **Anthropologie**[Anthropologie](https://anthropologie1.netlify.app/)
-
+- 🔭 I build clothing clone website. [Bewakoof](https://venkycoder422.github.io/bewakoof.github.io/)
+- 👯 I build women clothing clone website. [**Anthropologie**](https://anthropologie1.netlify.app/)
 - 👨‍💻 All of my projects are available at [https://the-awesome-venkycoder422-site.netlify.app/](https://the-awesome-venkycoder422-site.netlify.app/)
 
 - 📝 I regularly write articles on [https://thoughts-venky.blogspot.com/](https://thoughts-venky.blogspot.com/)
