@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/venkatesulu-dommara-863396221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venkatesulu-dommara-863396221/" height="30" width="40" /></a>
 <a href="https://the-awesome-venkycoder422-site.netlify.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
-<a href="[https://www.hackerrank.com/https://www.hackerrank.com/dashboard](https://www.hackerrank.com/dommaravenkates1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dommaravenkates1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
