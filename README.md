@@ -2,8 +2,6 @@
 , I'm Venkatesulu</h1>
 <h3 align="center">I am MERN stack developer, I am searching for a job related to my tech stack.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkycoder422&label=Profile%20views&color=0e75b6&style=flat" alt="venkycoder422" /> </p>
-
 <p align="center"><img src="https://user-images.githubusercontent.com/76251822/184339637-654f2f93-fc9f-497d-b1e6-5e3dc680afeb.png"></img><p>
 
 
@@ -40,3 +38,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkycoder422&theme=algolia&show_icons=true&locale=en&layout=compact" alt="venkycoder422" /></p>
 
 [![Venkatesulu's github activity graph](https://activity-graph.herokuapp.com/graph?username=venkycoder422&theme=react-dark)](https://github.com/venkycoder422/github-readme-activity-graph)
+
+## ❤ Views and Followers
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkycoder422&label=Profile%20views&color=0e75b6&style=flat" alt="venkycoder422" /> </p>
