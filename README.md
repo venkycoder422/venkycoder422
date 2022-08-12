@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/76251822/184340507-a428029b-e36e-4dcf-a266-ade9cc52e6cc.gif" width="40" height="40"></img>
 , I'm Venkatesulu</h1>
-<h3 align="center">A passionate frontend developer from India, I am searching for a job related to my tech stack.</h3>
+<h3 align="center">I am MERN stack developer, I am searching for a job related to my tech stack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkycoder422&label=Profile%20views&color=0e75b6&style=flat" alt="venkycoder422" /> </p>
 
