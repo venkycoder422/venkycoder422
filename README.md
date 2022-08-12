@@ -31,8 +31,10 @@
 
 ## 📊 My Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkycoder422&show_icons=true&locale=en&layout=compact" alt="venkycoder422" /></p>
+<p align="center"><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=venkycoder422&" alt="venkycoder422" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkycoder422&show_icons=true&locale=en" alt="venkycoder422" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkycoder422&" alt="venkycoder422" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=venkycoder422&show_icons=true&locale=en" alt="venkycoder422" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkycoder422&show_icons=true&locale=en&layout=compact" alt="venkycoder422" /></p>
+
