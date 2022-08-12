@@ -41,3 +41,5 @@
 
 ## ❤ Views and Followers
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkycoder422&label=Profile%20views&color=0e75b6&style=flat" alt="venkycoder422" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkycoder422&label=Profile%20followers&color=0e75b6&style=flat" alt="venkycoder422" /> </p>
+<img src="https://user-images.githubusercontent.com/76251822/184345097-608a115d-e2e7-41df-9f19-97e8f8bbad1f.svg"></img>
