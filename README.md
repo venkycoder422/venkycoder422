@@ -7,7 +7,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/76251822/184339637-654f2f93-fc9f-497d-b1e6-5e3dc680afeb.png"></img><p>
 
 
-## About Me
+## 🙋‍♂️ About Mee
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 🔭 I build clothing clone website. [Bewakoof](https://venkycoder422.github.io/bewakoof.github.io/)
 - 👯 I build women clothing clone website. [**Anthropologie**](https://anthropologie1.netlify.app/)
@@ -28,7 +28,7 @@
 <a href="https://www.hackerrank.com/dommaravenkates1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools:
+## 🚀 Languages and Tools:
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 ## 📊 My Github Stats
@@ -39,3 +39,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkycoder422&theme=algolia&show_icons=true&locale=en&layout=compact" alt="venkycoder422" /></p>
 
+[![Venkatesulu's github activity graph](https://activity-graph.herokuapp.com/graph?username=venkycoder422&theme=react-dark)](https://github.com/venkycoder422/github-readme-activity-graph)
