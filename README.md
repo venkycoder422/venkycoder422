@@ -5,7 +5,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/76251822/184339637-654f2f93-fc9f-497d-b1e6-5e3dc680afeb.png"></img><p>
 
 
-## 🙋‍♂️ About Mee
+## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 🔭 I build clothing clone website. [Bewakoof](https://venkycoder422.github.io/bewakoof.github.io/)
 - 👯 I build women clothing clone website. [**Anthropologie**](https://anthropologie1.netlify.app/)
