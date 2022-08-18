@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dommaravenkatesulu22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NkRl-tZD0jgyiL-MO4ld2xUU-gGxhtj0/view?usp=sharing](https://drive.google.com/file/d/1NkRl-tZD0jgyiL-MO4ld2xUU-gGxhtj0/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K9U8XbWRd-W07ENFlpfTnAw3k-kkSfMA/view?usp=sharing)
 
 ## Connect with me:
 <p align="left">
