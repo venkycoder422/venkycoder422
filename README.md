@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 🔭 I build clothing clone website. [Bewakoof](https://venkycoder422.github.io/bewakoof.github.io/)
 - 👯 I build women clothing clone website. [**Anthropologie**](https://anthropologie1.netlify.app/)
-- 👨‍💻 All of my projects are available at [https://the-awesome-venkycoder422-site.netlify.app/](https://the-awesome-venkycoder422-site.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://the-awesome-venkycoder422-site.netlify.app/](https://venkatesulu.vercel.app/)
 
 - 📝 I regularly write articles on [https://thoughts-venky.blogspot.com/](https://thoughts-venky.blogspot.com/)
 
