@@ -7,8 +7,8 @@
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Full Stack Web Development**
-- 🌹 I build pinterest clone website. [Pinterst](https://pinterestclone1.netlify.app/)
-- 🔭 I build clothing clone website. [Bewakoof](https://venkycoder422.github.io/bewakoof.github.io/)
+- 🌹 I build pinterest clone website. [Pinterest](https://pinterestclone1.netlify.app/)
+- 🔭 I build indian recipes website. [Indian Food](https://indianfood.vercel.app/)
 - 👯 I build women clothing clone website. [**Anthropologie**](https://anthropologie1.netlify.app/)
 - 👨‍💻 All of my projects are available at [Portfolio](https://venkatesulu.vercel.app/)
 
