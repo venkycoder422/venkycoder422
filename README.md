@@ -7,13 +7,14 @@
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Full Stack Web Development**
+- 🌹 I build pinterest clone website. [Pinterst](https://pinterestclone1.netlify.app/)
 - 🔭 I build clothing clone website. [Bewakoof](https://venkycoder422.github.io/bewakoof.github.io/)
 - 👯 I build women clothing clone website. [**Anthropologie**](https://anthropologie1.netlify.app/)
 - 👨‍💻 All of my projects are available at [Portfolio](https://venkatesulu.vercel.app/)
 
 - 📝 I regularly write articles on [https://thoughts-venky.blogspot.com/](https://thoughts-venky.blogspot.com/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript , React and Redux.**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Mongo DB, Express and Node js.**
 
 - 📫 How to reach me **dommaravenkatesulu22@gmail.com**
 
