@@ -45,6 +45,7 @@
 <p align="center"><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=venkycoder422&theme=algolia&show_icons=true&locale=en" alt="venkycoder422" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=venkycoder422&theme=algolia&show_icons=true&locale=en" alt="venkycoder422" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkycoder422&theme=algolia&show_icons=true&locale=en&layout=compact" alt="venkycoder422" /></p>
 
