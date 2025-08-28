@@ -6,7 +6,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m passionate about **Full Stack Web Development**
 - 🌹 I build pinterest clone website. [Pinterest](https://pinterestclone1.netlify.app/)
 - 🔭 I build indian recipes website. [Indian Food](https://indianfood.vercel.app/)
 - 👯 I build women clothing clone website. [**Anthropologie**](https://anthropologie1.netlify.app/)
